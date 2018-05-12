@@ -1,0 +1,48 @@
+_repo: Chaucer-s-Translation-of-Boethius-s-De-Consolatione-Philosophiae-_42083
+_version: 0.1.0
+alternative_title: De consolatione philosophiae. English
+contributor:
+  translator:
+    agent_name: Chaucer, Geoffrey
+    alias: Chaucer, Jeffrey
+    birthdate: 1342
+    deathdate: 1400
+    gutenberg_agent_id: '144'
+    url: http://www.gutenberg.org/2009/agents/144
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boethius
+    alias: Boethius, Anicius Manlius Severinus
+    birthdate: 480
+    deathdate: 524
+    gutenberg_agent_id: '4992'
+    url: http://www.gutenberg.org/2009/agents/4992
+    wikipedia: http://en.wikipedia.org/wiki/Anicius_Manlius_Severinus_Boethius
+  editor:
+    agent_name: Morris, Richard
+    alias: Morris, R. (Richard)
+    birthdate: 1833
+    deathdate: 1894
+    gutenberg_agent_id: '34489'
+    url: http://www.gutenberg.org/2009/agents/34489
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2013-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Happiness'
+- !lcsh 'Philosophy and religion'
+- !lcc 'PR'
+- !lcc 'B'
+title: Chaucer's Translation of Boethius's "De Consolatione Philosophiae"
+url: http://www.gutenberg.org/ebooks/42083
